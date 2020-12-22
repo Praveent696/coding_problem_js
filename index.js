@@ -22,6 +22,10 @@ let scriptsPathToImport = [
     {
         path : "./scripts/coding_problem/two_sum_easy.js",
         import: true
+    },
+    {
+        path : "./scripts/coding_problem/longest_substring_without_repeating_chars.js",
+        import: true
     }
 ] 
 
