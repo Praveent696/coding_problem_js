@@ -1,6 +1,6 @@
 let scriptsPathToImport = [
     {
-        path: "./scripts/bind.js",
+        path: "./scripts/coding_problem/bind.js",
         import: true
     },
     {
